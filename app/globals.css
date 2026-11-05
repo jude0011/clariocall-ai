@@ -1,0 +1,2 @@
+@import "tailwindcss";
+:root{color-scheme:dark}html{scroll-behavior:smooth}body{background:#071323;color:#f4f8ff;font-family:Arial,Helvetica,sans-serif}input,select,textarea{color:#152238}input::placeholder{color:#7b8798}.glass{background:rgba(255,255,255,.045);border:1px solid rgba(255,255,255,.12)}.glow{box-shadow:0 0 90px rgba(35,196,178,.12)}
